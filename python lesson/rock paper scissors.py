@@ -1,4 +1,4 @@
-rock paper scissors
+
 import random
 x = random.random()
 print (x)
